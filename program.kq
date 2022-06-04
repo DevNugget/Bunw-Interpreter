@@ -1,0 +1,13 @@
+dstr "Hello World"
+dstr "This is Bunw"
+
+f
+push 1
+push 0
+addr prts
+addr prts
+endf
+
+cf 0
+
+end
